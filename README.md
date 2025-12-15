@@ -50,12 +50,12 @@ PDF_FOLDER_PATH = r"D:\Automation\pdfs"
 ## ▶️ How to Run
 
 #### 1️⃣ Install Dependencies
-```python
+```bash
 pip install -r requirements.txt
 ```
 
 #### 2️⃣ Run the Script
-```python
+```bash
 python check_missing_pdfs.py
 ```
 
