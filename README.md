@@ -62,6 +62,6 @@ python check_missing_pdfs.py
 ---
 
 ## ⚠️ Requirements
-Windows operating system
-Microsoft Excel installed
-Excel file should be closed before execution (recommended)
+Windows operating system.
+Microsoft Excel installed.
+Excel file should be closed before execution (recommended).
