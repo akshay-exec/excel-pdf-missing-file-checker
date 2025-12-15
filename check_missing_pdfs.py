@@ -3,7 +3,7 @@ import sys
 import pythoncom
 import win32com.client as win32
 
-#-----Update these paths inside the script before running-----
+#-----Update these paths before running-----
 EXCEL_PATH = r"PATH_TO_EXCEL_FILE.xlsm"
 SHEET_NAME = "SHEET_NAME"
 PDF_FOLDER_PATH = r"PATH_TO_PDF_FOLDER"
