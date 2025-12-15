@@ -40,11 +40,11 @@ The script reads invoice and waybill numbers from Excel, checks the correspondin
 ## ⚙️ Configuration
 Update these paths inside the script before running:
 
-```python```
+```python
 EXCEL_PATH = r"D:\Automation\config.xlsx"
 SHEET_NAME = "Filing"
 PDF_FOLDER_PATH = r"D:\Automation\pdfs"
-
+```
 ---
 
 ## ▶️ How to Run
